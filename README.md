@@ -161,7 +161,7 @@ To validate this observation:
 
 Through this process, the building visible behind the garden matched **exactly** with the structure seen in the image.
 
-![Walk View 3D Confirmation](images/Google_Image4.png)
+![Walk View 3D Confirmation](images/Google_Earth4.png)
 *Figure: Google Earth Walk View and 3D rotation showing the building behind the garden.*
 
 ---
