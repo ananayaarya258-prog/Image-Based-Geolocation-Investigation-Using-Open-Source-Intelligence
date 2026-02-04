@@ -30,9 +30,10 @@ The analysis was performed using **visual clues, reverse image search, and Googl
 ### Step 1: Initial Visual Analysis
 The investigation began with careful visual observation of the image.
 
+![Original Blurred Image](images/Image-OSINT-VISUALIZATION.png)
+
 The following elements were identified:
 - Presence of **iconic and large buildings**, indicating a **big or well-developed city**
-- The area appeared **urban but open**, not extremely crowded
 - A **garden-like area** was visible near the location where the person was standing
 - A **lake or water body** was observed in the right corner when zooming into the image
 - The person appeared to be standing at a **height**, likely on a building
