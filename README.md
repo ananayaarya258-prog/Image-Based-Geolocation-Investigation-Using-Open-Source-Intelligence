@@ -73,7 +73,7 @@ After identifying the iconic building as **30 St Mary Axe (The Gherkin)**, the *
 
 The location **30 St Mary Axe, City of London** was searched directly in **Google Earth**, which provided a precise satellite view of the landmark and its surrounding area.
 
-![Google Earth – The Gherkin Location](google_earth.png)
+![Google Earth – The Gherkin Location](Google_Earth.png)
 *Figure: Google Earth satellite view of 30 St Mary Axe (The Gherkin), London.*
 
 ---
