@@ -120,5 +120,30 @@ By aligning:
 
 The **probable standing location of the person** was narrowed down significantly. This step brought the investigation much closer to identifying the **exact person location** from which the image was taken and enabled more precise analysis in the next stage.
 
+### Step 5: Extended Environment Correlation (Non-Final)
+
+At this stage, further analysis was performed by **zooming out slightly in Google Earth** to examine a wider surrounding area around the suspected location.
+
+This broader view enabled the identification of **additional environmental features** that closely matched the investigation image.
+
+The following similarities were observed:
+- A **building with similar structure and placement** relative to the suspected vantage point
+- A **garden or green space** visible in Google Earth that appeared consistent with the green area observed in the investigation image
+- Comparable **spacing between buildings and open areas**
+- Similar **urban layout and orientation**
+
+![Environment Correlation](images/Google_Earth3.png)
+*Figure: Broader environment comparison showing matching garden and surrounding buildings.*
+
+---
+
+### Current Assessment
+Although multiple environmental and structural elements show strong correlation between the investigation image and Google Earth, the **exact standing position of the person** could not be conclusively determined at this stage.
+
+However, this step significantly **narrowed down the probable area** from which the image was taken and provided strong supporting evidence for the suspected location.
+
+Further fine-grained analysis, such as precise angle matching or street-level confirmation, would be required to determine the **exact man location**.
+
+
 
 
