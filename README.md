@@ -67,3 +67,26 @@ Identifying this landmark confirmed that the image background belonged to the **
 
 This information significantly narrowed the search area and allowed the investigation to proceed with **Google Earth** for precise geolocation.
 
+### Step 3: Google Earth Geolocation Using Landmark Address
+
+After identifying the iconic building as **30 St Mary Axe (The Gherkin)**, the **exact address** of the building was used to continue the investigation.
+
+The location **30 St Mary Axe, City of London** was searched directly in **Google Earth**, which provided a precise satellite view of the landmark and its surrounding area.
+
+![Google Earth – The Gherkin Location](google_earth.png)
+*Figure: Google Earth satellite view of 30 St Mary Axe (The Gherkin), London.*
+
+---
+
+### Area-Based Analysis
+Using the confirmed location as a reference point, further analysis was performed by:
+- Examining nearby buildings visible in the original image
+- Observing surrounding **roads, open spaces, and urban layout**
+- Analyzing nearby **green areas and water bodies** visible from satellite imagery
+- Comparing building shapes and relative positioning
+
+This landmark-based approach allowed the investigation to move from **general city identification** to **precise geolocation analysis**.
+
+The information obtained from this step formed the foundation for deeper comparison and confirmation in subsequent analysis.
+
+
