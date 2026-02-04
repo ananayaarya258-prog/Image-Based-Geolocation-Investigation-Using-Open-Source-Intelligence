@@ -41,3 +41,29 @@ The following elements were identified:
 
 These observations helped form an initial understanding of the environment.
 
+### Step 2: Reverse Image Search & Landmark Identification
+
+To gain additional context, a **reverse image search** was performed using **Yandex Image Search**.
+
+The image background was uploaded to Yandex, which returned multiple visually similar results containing **iconic buildings and skyline views**. Many of these results were associated with the **London Skyline**, indicating that the image was likely taken in **London**.
+
+![Yandex Reverse Image Search Results](images/Reverse_Image_Search1.png)
+*Figure: Yandex reverse image search results showing similar images linked to the London skyline.*
+
+---
+
+#### Iconic Building Analysis
+Among the returned results, one **distinctive and iconic building** stood out repeatedly. This building had a **unique curved and cylindrical shape**, which made it easily recognizable.
+
+![Yandex Reverse Image Search Results](images/Reverse_Image_Search2.png)
+Further independent research on this building revealed that it is:
+
+**30 St Mary Axe (The Gherkin)**  
+- A **591 ft (180 m)** tall skyscraper  
+- Located in the **City of London**  
+- Known for its **distinctive modern architecture**
+
+Identifying this landmark confirmed that the image background belonged to the **London metropolitan area**, further strengthening the accuracy of the investigation.
+
+This information significantly narrowed the search area and allowed the investigation to proceed with **Google Earth** for precise geolocation.
+
