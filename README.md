@@ -1,5 +1,5 @@
 ## 📌 Case Objective
-The objective of this investigation was to determine the **geographical location of an image** using **Image OSINT techniques**, without relying on metadata (EXIF).
+The objective of this investigation was to determine the **exact geographical location of an person in this image** using **Image OSINT techniques**, without relying on metadata (EXIF).
 
 The analysis was performed using **visual clues, reverse image search, and Google Earth**.
 
@@ -88,5 +88,37 @@ Using the confirmed location as a reference point, further analysis was performe
 This landmark-based approach allowed the investigation to move from **general city identification** to **precise geolocation analysis**.
 
 The information obtained from this step formed the foundation for deeper comparison and confirmation in subsequent analysis.
+
+### Step 4: Directional & Building-Based Correlation Analysis
+
+With the landmark location confirmed, the investigation focused on identifying the **exact position of the person** visible in the image.
+
+By closely reviewing the investigation image, one **prominent building** was observed near the apparent location of the person. This building was labeled as **Building 1** for reference.
+
+While analyzing the surroundings of Building 1, another **distinctive structure** was identified nearby. This second structure was labeled as **Building 2**. The relative positioning of **Building 1 and Building 2** in the image provided important directional clues.
+
+---
+
+### Direction Matching Using Google Earth
+To validate this observation:
+- The same two buildings (Building 1 and Building 2) were located in **Google Earth**
+- The **direction and orientation** between the two buildings were analyzed
+- Google Earth was rotated to match the **camera-facing direction** visible in the image
+
+This allowed the satellite view to reflect the **same perspective and face of the buildings** as seen in the investigation image.
+
+![Directional Building Matching](images/Google_Earth2.png)
+*Figure: Directional alignment of Building 1 and Building 2 using Google Earth.*
+
+---
+
+### Outcome of This Step
+By aligning:
+- The relative position of Building 1 and Building 2
+- The facing direction of the structures
+- The surrounding environment
+
+The **probable standing location of the person** was narrowed down significantly. This step brought the investigation much closer to identifying the **exact person location** from which the image was taken and enabled more precise analysis in the next stage.
+
 
 
