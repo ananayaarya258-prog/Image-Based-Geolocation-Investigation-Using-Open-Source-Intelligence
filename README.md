@@ -144,6 +144,48 @@ However, this step significantly **narrowed down the probable area** from which 
 
 Further fine-grained analysis, such as precise angle matching or street-level confirmation, would be required to determine the **exact man location**.
 
+### Step 6: Final Vantage Point Identification Using Walk View & 3D Analysis
+
+In the final stage of the investigation, the image was **re-analyzed visually** with a specific focus on the **relative position of the person, the garden, and the surrounding buildings**.
+
+By closely observing the investigation image, it became clear that the **person was standing on a building located directly behind a garden area**. This visual relationship between the **garden in the foreground** and the **building behind it** became the key confirmation factor.
+
+---
+
+### Google Earth Walk View & 3D Rotation
+To validate this observation:
+- **Walk View** was activated in Google Earth
+- The view was placed **inside the identified garden area**
+- **3D rotation** was used to observe buildings located directly behind the garden
+- The perspective was adjusted to match the **same viewing angle and building face** visible in the investigation image
+
+Through this process, the building visible behind the garden matched **exactly** with the structure seen in the image.
+
+![Walk View 3D Confirmation](images/Google_Image4.png)
+*Figure: Google Earth Walk View and 3D rotation showing the building behind the garden.*
+
+---
+
+## 📍 Final Identified Location
+Based on visual alignment, spatial positioning, and 3D perspective matching, the **exact standing location of the person** was identified as:
+
+![Walk View 3D Confirmation](images/Final_Location.png)
+**St. Paul’s Cathedral**  
+St. Paul’s Churchyard,  
+London EC4M 8AD,  
+United Kingdom
+
+---
+
+### Final Confirmation Logic
+The location was confirmed through:
+- Direct alignment of the **garden and building positioning**
+- Matching **building structure and height**
+- Correct **directional perspective** from Walk View
+- Consistent **urban environment and landmarks**
+
+This step conclusively identified the **exact man location** from which the image was taken.
+
 
 
 
