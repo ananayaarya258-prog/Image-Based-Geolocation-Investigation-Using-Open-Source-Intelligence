@@ -11,7 +11,9 @@ The analysis was performed using **visual clues, reverse image search, and Googl
 - **Faces / Sensitive details:** Blurred for privacy  
 - **Purpose:** Educational & skill-building  
 
-📷 Reference Image: `images/original_blurred.png`
+📷 Reference Image:
+
+![Original Blurred Image](images/Image-OSINT.png)
 
 ---
 
